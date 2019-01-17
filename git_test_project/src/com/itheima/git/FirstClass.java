@@ -10,6 +10,6 @@ public class FirstClass {
 
     }
     public void test(){
-        System.out.println("222");
+        System.out.println(5);
     }
 }
